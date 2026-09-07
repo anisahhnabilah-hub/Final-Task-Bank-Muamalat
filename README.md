@@ -9,7 +9,6 @@ The project focuses on data integration, data analysis, data visualization, and 
 ## Tools
 
 - Google BigQuery
-- SQL
 - Looker Studio
 
 ## Project Process
